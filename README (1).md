@@ -17,6 +17,6 @@ A labeled public dataset from the Mendaly Data comprised of features of 58,645 w
 
 Dataset:
 
-A labeled public dataset from the Mendaly Data comprised of features of 88,647 website is used for prediction
+A labeled public dataset from the Mendaly Data comprised of features of 58,645 website is used for prediction
 
 URL: https://data.mendeley.com/datasets/72ptz43s9v/1
